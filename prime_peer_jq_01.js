@@ -1,3 +1,5 @@
+import $ from 'jquery';
+
 //Utility function
 //A simple random number generator
 function randomNumber(min, max) {

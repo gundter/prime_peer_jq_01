@@ -1,0 +1,14 @@
+{
+  "name": "prime_peer_jq_01",
+  "version": "1.0.0",
+  "description": "In this Repo, you will find jQuery, a stub html file, and a script file with the \r random number function introduced last week. Your goal is to create a new Person object, that accepts a random\r age 1-100, a random sex, and a random weight (for the purposes of this assignment, you can have a 100 pound 1 \r year old).",
+  "main": "prime_peer_jq_01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
